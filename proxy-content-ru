@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,sso.kinopoisk.ru
 DOMAIN-SUFFIX,api.ott.kinopoisk.ru
 DOMAIN-SUFFIX,graphql.kinopoisk.ru
 DOMAIN-SUFFIX,payment-widget.plus.kinopoisk.ru
+
+DOMAIN,actm.me
